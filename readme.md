@@ -144,7 +144,7 @@ You can customize the output by modifying your `.env` file:
 
 ### Sample Output
 
-**CSV Output:**
+**CSV Output (will output in spreadsheet format):**
 ```csv
 track_name,artist_name,album_name,release_date,duration_ms,duration_min_sec,popularity,spotify_url,track_id,added_at
 "Bohemian Rhapsody","Queen","A Night at the Opera","1975-10-31",355000,"5:55",87,"https://open.spotify.com/track/4u7EnebtmKWzUH433cf5Qv","4u7EnebtmKWzUH433cf5Qv","2023-12-01T15:30:00Z"
